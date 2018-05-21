@@ -1,0 +1,7 @@
+C:\Users\Zulqar102145\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+C:\Users\Zulqar102145\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+C:\Users\Zulqar102145\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+C:\Users\Zulqar102145\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojAssemblyReference.cache
+C:\Users\Zulqar102145\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Zulqar102145\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+C:\Users\Zulqar102145\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
